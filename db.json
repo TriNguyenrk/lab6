@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "image": "https://example.com/iphone14.jpg",
+      "price": 20000000,
+      "type": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "MacBook Pro",
+      "image": "https://example.com/macbookpro.jpg",
+      "price": 35000000,
+      "type": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "iPhone 14",
+      "image": "https://example.com/iphone14.jpg",
+      "price": 20000000,
+      "type": "Điện thoại"
+    },
+    {
+      "id": "4",
+      "name": "MacBook Pro",
+      "image": "https://example.com/macbookpro.jpg",
+      "price": 35000000,
+      "type": "Laptop"
+    }
+  ]
+}
